@@ -54,7 +54,7 @@ header nav a:hover{
 .main-movie{
 	background: linear-gradient(90deg, var(--opacity), var(--opacity)), url("../images/scream-cover.jpg") right top no-repeat;
 	background-size: cover;
-	height: 400px;
+	height: 450px;
 	display: flex;
 	flex-direction: column; /* justify-content always follows flex-direction */
 	justify-content: center;
